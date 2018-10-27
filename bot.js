@@ -822,4 +822,6 @@ message.channel.stopTyping()
 })
 }
 });
-client.login("rocess.env.BOT_TOKEN");
+
+
+client.login(process.env.BOT_TOKEN);
