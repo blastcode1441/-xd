@@ -1065,4 +1065,4 @@ client.on('message', message => {
 
 
 
-client.login("MzQ4NjM1MTMxNjUwNTA2NzUy.DqTdlQ.gzr11eGhwlbpgw4hBemcIDwWiv4");
+client.login("NDcxNzExODkxODYxOTI5OTg2.DrWllA.GalmrNsfq6iHTm6La81dOxloMps");
